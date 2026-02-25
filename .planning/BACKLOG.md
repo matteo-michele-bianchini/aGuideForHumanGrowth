@@ -21,15 +21,7 @@
 ### Module 3: Mastery of Self
 - **Status:** Done (for now)
 
-### Module 4: The Art of Encounter
-- **Status:** Not started
-- [ ] Define core content: active listening and practical empathy
-- [ ] Write EN module
-- [ ] Write IT translation
-- [ ] Add practical exercise
-- [ ] Link in index
-
-### Module 5: We Are What Happens
+### Module 4: We Are What Happens
 - **Status:** Seed only
 - [x] Core concept defined: "What happens is not separate from us"
 - [ ] Expand the concept of coincidence between self and what is outside the self — there is no boundary, what happens IS us
@@ -37,18 +29,25 @@
 - [ ] Write IT translation (seed exists)
 - [ ] Add practical exercise
 
-### New Section: Trust, Gratitude, and Love
-- **Status:** Idea
-- [ ] Define core content: the role of trust, gratitude, and love in personal growth
-- [ ] Decide placement (new module or section within an existing module)
-- [ ] Write EN content
+### Module 5: Trust, Gratitude, and Love
+- **Status:** Not started
+- [ ] Define core content: trust, gratitude, and love as the natural fruit of non-separation
+- [ ] Write EN module
 - [ ] Write IT translation
 - [ ] Add practical exercise
 - [ ] Link in index
 
-### Module 6: Global Impact
+### Module 6: The Art of Encounter
 - **Status:** Not started
-- [ ] Define core content: sustainable habits and conscious citizenship
+- [ ] Define core content: active listening and practical empathy
+- [ ] Write EN module
+- [ ] Write IT translation
+- [ ] Add practical exercise
+- [ ] Link in index
+
+### Module 7: Living Together
+- **Status:** Not started
+- [ ] Define core content: conscious action and responsibility within the community
 - [ ] Write EN module
 - [ ] Write IT translation
 - [ ] Add practical exercise

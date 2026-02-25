@@ -1,6 +1,6 @@
 # Guida alla Crescita Umana 🌍
 
-Benvenuto in questo progetto **Open Source**. Questa non è solo una guida, ma un cantiere aperto per l'evoluzione collettiva.
+Una guida open-source e pratica per la crescita personale e il miglioramento sociale globale.
 
 ## Perché questa guida esiste?
 Il mondo non cambia con i grandi discorsi, ma con le piccole evoluzioni di ogni singolo individuo. Se tu migliori il modo in cui pensi, agisci e comunichi, la società intorno a te cambia di riflesso. Questa è l'unica rivoluzione che funziona davvero.

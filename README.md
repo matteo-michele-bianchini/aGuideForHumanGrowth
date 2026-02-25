@@ -1,6 +1,6 @@
 # A Guide For Human Growth 🌍
 
-An open-source, practical framework for personal evolution and global social change.
+An open-source, practical guide for personal growth and global social improvement.
 
 ## 📜 The Manifesto
 

@@ -1,4 +1,4 @@
-# A Guide For Human Growth 🌍
+# A Guide For Personal Growth 🌍
 
 An open-source, practical guide for personal growth and global social improvement.
 
@@ -17,7 +17,7 @@ This is the only revolution that actually works.
 
 ## 💡 Why Open Source?
 The knowledge to be well and live in harmony belongs to everyone.
-**You can use, copy, and improve this guide.** Join our [community discussion](https://github.com/matteo-michele-bianchini/aGuideForHumanGrowth/discussions/1) to contribute.
+**You can use, copy, and improve this guide.** Join our [community discussion](https://github.com/matteo-michele-bianchini/aGuideForPersonalGrowth/discussions/1) to contribute.
 
 ---
 

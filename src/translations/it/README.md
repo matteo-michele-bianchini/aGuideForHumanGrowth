@@ -1,13 +1,15 @@
-# Guida alla Crescita Umana 🌍
+# Guida alla Crescita Personale 🌍
 
 Una guida open-source e pratica per la crescita personale e il miglioramento sociale globale.
 
 ## Perché questa guida esiste?
-Il mondo non cambia con i grandi discorsi, ma con le piccole evoluzioni di ogni singolo individuo. Se tu migliori il modo in cui pensi, agisci e comunichi, la società intorno a te cambia di riflesso. Questa è l'unica rivoluzione che funziona davvero.
+Il mondo non cambia con i grandi discorsi, ma con le piccole evoluzioni di ogni singolo individuo.
+Se tu migliori il modo in cui pensi, agisci e comunichi, la società intorno a te cambia di riflesso.
+Questa è l'unica rivoluzione che funziona davvero.
 
 ## 💡 Perché è Open Source?
 La conoscenza per stare bene e vivere in armonia è di tutti.
-**Puoi usare, copiare e migliorare questa guida.** Unisciti alla [discussione della community](https://github.com/matteo-michele-bianchini/aGuideForHumanGrowth/discussions/1) per contribuire.
+**Puoi usare, copiare e migliorare questa guida.** Unisciti alla [discussione della community](https://github.com/matteo-michele-bianchini/aGuideForPersonalGrowth/discussions/1) per contribuire.
 
 ## I nostri tre pilastri:
 

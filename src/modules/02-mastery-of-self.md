@@ -1,4 +1,4 @@
-# Module 1: Mastery of Self 🧘
+# Module 2: Mastery of Self 🧘
 
 The foundation of global change is the individual's ability to govern themselves. The primary task of every human being is to know themselves.
 

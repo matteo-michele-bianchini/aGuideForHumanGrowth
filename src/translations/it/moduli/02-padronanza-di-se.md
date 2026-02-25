@@ -1,4 +1,4 @@
-# Modulo 1: Padronanza di Sé 🧘
+# Modulo 2: Padronanza di Sé 🧘
 
 Le fondamenta del cambiamento globale sono la capacità dell'individuo di governare se stesso. Il compito primario di ogni essere umano è conoscere se stesso.
 

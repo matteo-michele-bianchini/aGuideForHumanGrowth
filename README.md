@@ -23,9 +23,10 @@ The knowledge to be well and live in harmony belongs to everyone.
 
 This guide is modular. You can start anywhere, but we suggest following the order:
 
-- **[Module 1: Mastery of Self](./moduli/01-mastery-of-self.md)** - Taking back control of your attention and energy.
-- **Module 2: The Art of Encounter** - Active listening and practical empathy. *(Work in progress)*
-- **Module 3: Global Impact** - Sustainable habits and conscious citizenship. *(Work in progress)*
+- **Module 1: Emotional Wellbeing** - Understanding and caring for your inner world. *(Work in progress)*
+- **[Module 2: Mastery of Self](./src/modules/02-mastery-of-self.md)** - Taking back control of your attention and energy.
+- **Module 3: The Art of Encounter** - Active listening and practical empathy. *(Work in progress)*
+- **Module 4: Global Impact** - Sustainable habits and conscious citizenship. *(Work in progress)*
 
 ---
 

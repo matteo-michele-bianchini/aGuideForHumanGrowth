@@ -16,9 +16,10 @@ La conoscenza per stare bene e vivere in armonia è di tutti.
 3. **Inclusività:** Non importa chi sei o da dove vieni; la crescita è un diritto universale.
 
 ## 🧭 Struttura della Guida
-- **[Modulo 1: Padronanza di Sé](./moduli/01-padronanza-di-se.md)** - Gestione dell'attenzione e delle emozioni.
-- **Modulo 2: L'Arte dell'Incontro** - Ascolto attivo ed empatia pratica. *(In lavorazione)*
-- **Modulo 3: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
+- **Modulo 1: Benessere Emotivo** - Comprendere e prendersi cura del proprio mondo interiore. *(In lavorazione)*
+- **[Modulo 2: Padronanza di Sé](./moduli/02-padronanza-di-se.md)** - Gestione dell'attenzione e delle emozioni.
+- **Modulo 3: L'Arte dell'Incontro** - Ascolto attivo ed empatia pratica. *(In lavorazione)*
+- **Modulo 4: Impatto Globale** - Consumo critico e cittadinanza attiva. *(In lavorazione)*
 
 ---
 

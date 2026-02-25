@@ -13,7 +13,7 @@ La tua attenzione è il tuo vero sé.
 
 ## 2. Impatto Globale
 Quando migliaia di persone riprendono il controllo della propria attenzione:
-1.  **La chiarezza cresce:** Iniziamo a fare scelte basate su fattori reali, non  impulsi percepiti.
+1.  **La chiarezza cresce:** Iniziamo a fare scelte basate su fattori reali, non su impulsi percepiti.
 2.  **Presenza:** Diventiamo capaci di ascoltare davvero la persona che abbiamo davanti.
 
 ---

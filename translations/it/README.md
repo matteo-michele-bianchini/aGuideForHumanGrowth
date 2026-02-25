@@ -27,7 +27,7 @@ La guida è modulare. Puoi iniziare da dove vuoi, ma suggeriamo di seguire l'ord
 
 ## 🌐 Traduzioni Disponibili
 
-- 🇬🇧 [English](../../../README.md)
+- 🇬🇧 [English](../../README.md)
 
 ---
 

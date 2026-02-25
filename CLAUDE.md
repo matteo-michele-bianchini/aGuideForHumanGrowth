@@ -2,7 +2,7 @@
 
 ## Language
 - Main content in **English** (root / `src/`)
-- Italian translation in `src/translations/it/`
+- Italian translation in `translations/it/`
 - The user writes in Italian; translate to English for the main content and maintain the Italian version in parallel
 - **Sync rule**: when one language version is modified, automatically update the other to keep them aligned
 

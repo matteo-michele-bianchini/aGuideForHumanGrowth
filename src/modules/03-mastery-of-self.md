@@ -1,6 +1,6 @@
 # Module 3: Mastery of Self 🧘
 
-The foundation of global change is the individual's ability to govern themselves.
+The foundation of global change is your ability to govern yourself.
 
 ## 1. The Power of Attention
 

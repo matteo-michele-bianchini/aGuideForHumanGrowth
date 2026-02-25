@@ -1,6 +1,6 @@
 # Modulo 3: Padronanza di Sé 🧘
 
-Le fondamenta del cambiamento globale sono la capacità dell'individuo di governare se stesso.
+Le fondamenta del cambiamento globale sono la capacità di governare te stesso.
 
 ## 1. Il Potere dell'Attenzione
 

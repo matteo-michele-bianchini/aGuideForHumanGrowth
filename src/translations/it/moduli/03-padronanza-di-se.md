@@ -15,7 +15,10 @@ La tua attenzione è il tuo vero sé.
 Quando riprendiamo il controllo della nostra attenzione:
 1.  **Essere prima di fare:** Raggiungiamo il passaggio da esseri che *fanno* a esseri che *sono* — l'essere diventa il punto di partenza, e il fare ne consegue naturalmente.
 2.  **La chiarezza cresce:** Iniziamo a fare scelte basate su fattori reali, non su impulsi percepiti.
-3.  **Presenza:** SIAMO pienamente presenti a ciò che accade qui e ora. Non sta accadendo da qualche parte a noi. Sta accadendo con noi e dentro di noi.
+3.  **Presenza:** SIAMO pienamente presenti a ciò che accade (qui e ora).
+Non sta accadendo da qualche parte.
+Non sta accadendo a noi.
+Sta accadendo con noi e dentro di noi.
 
 ---
 *Questo modulo è aperto a miglioramenti. Se hai un esercizio più semplice, proponi una Pull Request.*
